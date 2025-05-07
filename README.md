@@ -46,9 +46,6 @@ Whether you're looking to implement authentication in your Next.js project or se
 - Footer Section which can be accessed after successful login
   ![tuxpi com 1712470887](https://github.com/ShahzadDiyal/Modern-UI-Strong-Authentication-System/blob/main/assets/chrome_W6uEHd3cla.png)
 
-- Toast message on the top
-![tuxpi com 1712471311](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/dd70a8ef-e7ef-405b-89ba-4107d0b9e7a7)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
