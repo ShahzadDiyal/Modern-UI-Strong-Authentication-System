@@ -17,7 +17,7 @@ Whether you're looking to implement authentication in your Next.js project or se
 
 ## Screenshots
 - Sign Up
-  ![tuxpi com 1712470719](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/75e42e47-e09f-4178-9830-6f51dd757839)
+  ![tuxpi com 1712470719](https://github.com/ShahzadDiyal/Modern-UI-Strong-Authentication-System/blob/main/assets/nlJUB1Au4G.png)
 
 - Verify Email
   ![tuxpi com 1712472322](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/4d8c5b0b-d904-4d69-ad78-77dc39db1b48)
@@ -29,16 +29,22 @@ Whether you're looking to implement authentication in your Next.js project or se
  ![tuxpi com 1712474721](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/77edc349-b923-4f88-988f-f6ad51190296)
 
 - Login
-  ![tuxpi com 1712470649](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/8de32408-99f8-4a2c-8847-50fef069897e)
+  ![tuxpi com 1712470649](https://github.com/ShahzadDiyal/Modern-UI-Strong-Authentication-System/blob/main/assets/chrome_Opk3cR86j3.png)
 
 - Profile
   ![tuxpi com 1712470785](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/e1475e48-f55f-44e4-b141-8a745ae43845)
 
-- Profile Details
-  ![tuxpi com 1712470849](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/0b0cb8e3-e77e-41e9-81bf-71c51ceca81f)
+- Slider section in Profile page 
+  ![tuxpi com 1712470785](https://github.com/ShahzadDiyal/Modern-UI-Strong-Authentication-System/blob/main/assets/chrome_uHtL5OVJJ0.png)
+
+<!-- - Profile Details
+  ![tuxpi com 1712470849](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/0b0cb8e3-e77e-41e9-81bf-71c51ceca81f) -->
 
 - Home Page which can be accessed after successful login
-  ![tuxpi com 1712470887](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/4d61665f-b48b-4a9e-9009-90a8d449923d)
+  ![tuxpi com 1712470887](https://github.com/ShahzadDiyal/Modern-UI-Strong-Authentication-System/blob/main/assets/chrome_cGS46QPZ1a.png)
+
+- Footer Section which can be accessed after successful login
+  ![tuxpi com 1712470887](https://github.com/ShahzadDiyal/Modern-UI-Strong-Authentication-System/blob/main/assets/chrome_W6uEHd3cla.png)
 
 - Toast message on the top
 ![tuxpi com 1712471311](https://github.com/RAVIGANESHMBHAT/NextJS-Authentication/assets/41186067/dd70a8ef-e7ef-405b-89ba-4107d0b9e7a7)
@@ -48,12 +54,12 @@ Whether you're looking to implement authentication in your Next.js project or se
 To get a local copy up and running follow these simple steps.
 1. Clone the repo
 ```bash
-git clone https://github.com/RAVIGANESHMBHAT/NextJS-Authentication.git
+git clone https://github.com/ShahzadDiyal/Modern-UI-Strong-Authentication-System.git
 ```
 
 2. Go to the project folder
 ```bash
-cd NextJS-Authentication
+cd Modern-UI-Strong-Authentication-System
 ```
 
 3. Install NPM packages
